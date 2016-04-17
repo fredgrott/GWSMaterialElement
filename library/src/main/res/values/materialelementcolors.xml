@@ -37,41 +37,7 @@
     <color name="turquoiseA400">#e0ffff</color>
     <color name="turquoiseA700">#aee2e3</color>
 
-    <!-- Medium Turquoise, Medium Turquoise and Pale Turquoise -->
 
-    <color name="meidumturquoise50">#98e7e4</color>
-    <color name="mediumturquoise100">#82e3e0</color>
-    <color name="mediumturquoise200">#70e0dc</color>
-    <color name="mediumturquoise300">#5de0db</color>
-    <color name="mediumturquoise400">#52dcd7</color>
-    <color name="mediumturquoise500">#48d1cc</color>
-    <color name="mediumturquoise600">#38c3be</color>
-    <color name="mediumturquoise700">#2cb3ae</color>
-    <color name="mediumturquoise800">#22a09c</color>
-    <color name="mediumturquoise900">#1a928e</color>
-
-    <color name="mediumturquoiseA100">#d8f2f2</color>
-    <color name="mediumturquoiseA200">#c2edee</color>
-    <color name="mediumturquoiseA400">#afeeee</color>
-    <color name="mediumturquoiseA700">#84d0d1</color>
-
-    <!-- Dark Turquoise, Dark Turquoise and Aquamarine -->
-
-    <color name="darkturquoise50">#41f5f7</color>
-    <color name="darkturquoise100">#2bf0f2</color>
-    <color name="darkturquoise200">#18eaec</color>
-    <color name="darkturquoise300">#11e6e9</color>
-    <color name="darkturquoise400">#07d9dc</color>
-    <color name="darkturquoise500">#00ced1</color>
-    <color name="darkturquoise600">#00bfc1</color>
-    <color name="darkturquoise700">#009ea0</color>
-    <color name="darkturquoise800">#00797a</color>
-    <color name="darkturquoise900">#005556</color>
-
-    <color name="darkturquoiseA100">#a7f9dd</color>
-    <color name="darkturquoiseA200">#95f9d7</color>
-    <color name="darkturquoiseA400">#7fffd4</color>
-    <color name="darkturquoiseA700">#6bf4c5</color>
 
     <!-- cadet Blue, Cadet Blue and Cyan -->
 
@@ -128,23 +94,7 @@
     <color name="lightsteelblueA400">#4682b4</color>
     <color name="lightsteelblueA700">#3973a4</color>
 
-    <!-- Powder Blue, Powder blue and Light Steel blue -->
 
-    <color name="powderblue50">#d7f1f4</color>
-    <color name="powderblue100">#cef0f4</color>
-    <color name="powderblue200">#c4ebf0</color>
-    <color name="powderblue300">#bae8ee</color>
-    <color name="powderblue400">#b6e5eb</color>
-    <color name="powderblue500">#b0e0e6</color>
-    <color name="powderblue600">#9fd4da</color>
-    <color name="powderblue700">#88c7ce</color>
-    <color name="powderblue800">#70b7bf</color>
-    <color name="powderblue900">#60aab3</color>
-
-    <color name="powderblueA100">#d1ddee</color>
-    <color name="powderblueA200">#becfe5</color>
-    <color name="powderblueA400">#b0c4de</color>
-    <color name="powderblueA700">#89a4c8</color>
 
     <!-- Light Blue, Light Blue and Powder blue-->
 
@@ -274,23 +224,7 @@
     <color name="royalblueA400">#6495ed</color>
     <color name="royalblueA700">#4f80d9</color>
 
-    <!-- Medium Blue, Medium Blue and Alice Blue-->
 
-    <color name="mediumblue50">#5959f0</color>
-    <color name="mediumblue100">#4d4df0</color>
-    <color name="mediumblue200">#2b2bee</color>
-    <color name="mediumblue300">#1818e3</color>
-    <color name="mediumblue400">#0909d9</color>
-    <color name="mediumblue500">#0000cd</color>
-    <color name="mediumblue600">#0101b4</color>
-    <color name="mediumblue700">#010199</color>
-    <color name="mediumblue800">#00006e</color>
-    <color name="mediumblue900">#000042</color>
-
-    <color name="mediumblueA100">#f0f8ff</color>
-    <color name="mediumblueA200">#bfd1e0</color>
-    <color name="mediumblueA400">#96acbf</color>
-    <color name="mediumblueA700">#657e94</color>
 
     <!-- dark Blue, Dark Blue and Azure -->
 
@@ -368,7 +302,7 @@
     <color name="violetA400">#dda0dd</color>
     <color name="violetA700">#c887c7</color>
 
-    <!-- Medium Purple, Medium purple and Blue Violet -->
+    <!-- Medium Purple, Medium purple and Pearl -->
 
     <color name="mediumpurple50">#dcd1f4</color>
     <color name="mediumpurple100">#d1bff5</color>
@@ -381,10 +315,10 @@
     <color name="mediumpurple800">#553692</color>
     <color name="mediumpurple900">#402577</color>
 
-    <color name="mediumpurpleA100">#af65f4</color>
-    <color name="mediumpurpleA200">#9f4bee</color>
-    <color name="mediumpurpleA400">#8a2be2</color>
-    <color name="mediumpurpleA700">#6511b4</color>
+    <color name="mediumpurpleA100">#fdeef4</color>
+    <color name="mediumpurpleA200">#e5c7d3</color>
+    <color name="mediumpurpleA400">#caa5b4</color>
+    <color name="mediumpurpleA700">#a46d83</color>
 
     <!-- Amethyst, Amethyst and Medium Purple -->
 
@@ -422,23 +356,7 @@
     <color name="bluevioletA400">#9400d3</color>
     <color name="bluevioletA700">#7c00af</color>
 
-    <!-- Dark Violet, Dark Violet and Blue Violet -->
 
-    <color name="darkviolet50">#b70bff</color>
-    <color name="darkviolet100">#b005f7</color>
-    <color name="darkviolet200">#a905ee</color>
-    <color name="darkviolet300">#a301e7</color>
-    <color name="darkviolet400">#9d02de</color>
-    <color name="darkviolet500">#9400d3</color>
-    <color name="darkviolet600">#8d03c6</color>
-    <color name="darkviolet700">#8303b8</color>
-    <color name="darkviolet800">#7701a8</color>
-    <color name="darkviolet900">#5d0382</color>
-
-    <color name="darkvioletA100">#a655f2</color>
-    <color name="darkvioletA200">#993fec</color>
-    <color name="darkvioletA400">#8a2be2</color>
-    <color name="darkvioletA700">#761ec8</color>
 
     <!-- Dark Orchid, Dark Orchid and Amethyst -->
 
@@ -553,23 +471,7 @@
     <color name="pinkA400">#db7093</color>
     <color name="pinkA700">#c3587b</color>
 
-    <!-- Light pink, Light Pink and Pink -->
 
-    <color name="lightpink50">#f9e8eb</color>
-    <color name="lightpink100">#fbdde2</color>
-    <color name="lightpink200">#ffd1d7</color>
-    <color name="lightpink300">#ffc8d0</color>
-    <color name="lightpink400">#ffbec7</color>
-    <color name="lightpink500">#ffb6c1</color>
-    <color name="lightpink600">#eb9da8</color>
-    <color name="lightpink700">#da8894</color>
-    <color name="lightpink800">#c3717d</color>
-    <color name="lightpink900">#af5f6b</color>
-
-    <color name="lightpinkA100">#ffdde3</color>
-    <color name="lightpinkA200">#ffd0d8</color>
-    <color name="lightpinkA400">#ffc0cb</color>
-    <color name="lightpinkA700">#e39eaa</color>
 
     <!-- Khaki Rose, Khaki Rose and -->
 
@@ -662,23 +564,7 @@
     <color name="mediumvioletredA400">#db7093</color>
     <color name="mediumvioletredA700">#c55278</color>
 
-    <!-- Pale Violet Red, Pale Violet Red and Medium Violet Red -->
 
-    <color name="palevioletred50">#eeb7c9</color>
-    <color name="palevioletred100">#eea9c0</color>
-    <color name="palevioletred200">#e99bb5</color>
-    <color name="palevioletred300">#e38ba8</color>
-    <color name="palevioletred400">#e37ea0</color>
-    <color name="palevioletred500">#db7093</color>
-    <color name="palevioletred600">#d36489</color>
-    <color name="palevioletred700">#ba4f72</color>
-    <color name="palevioletred800">#993b5a</color>
-    <color name="palevioletred900">#7e2a46</color>
-
-    <color name="palevioletredA100">#e035a2</color>
-    <color name="palevioletredA200">#d52695</color>
-    <color name="palevioletredA400">#c71585</color>
-    <color name="palevioletredA700">#b30b76</color>
 
     <!-- Tulip Pink, Tulip Pink and Blush Pink-->
 
@@ -844,23 +730,7 @@
     <color name="valentineredA400">#f75d59</color>
     <color name="valentineredA700">#c53a37</color>
 
-    <!-- Red, Red and Valentine Red -->
 
-    <color name="red50">#f99e9e</color>
-    <color name="red100">#fb9090</color>
-    <color name="red200">#fb6464</color>
-    <color name="red300">#f93c3c</color>
-    <color name="red400">#fb1a1a</color>
-    <color name="red500">#ff0000</color>
-    <color name="red600">#d90000</color>
-    <color name="red700">#ad0101</color>
-    <color name="red800">#820202</color>
-    <color name="red900">#5e0101</color>
-
-    <color name="redA100">#f58b88</color>
-    <color name="redA200">#f4716e</color>
-    <color name="redA400">#e55451</color>
-    <color name="redA700">#bf3431</color>
 
 
 
@@ -883,23 +753,6 @@
     <color name="scarletA400">#e55b3c</color>
     <color name="scarletA700">#ca4729</color>
 
-    <!-- ruby Red, Ruby Red and Ferrari Red -->
-
-    <color name="rubyred50">#fb948f</color>
-    <color name="rubyred100">#f9827c</color>
-    <color name="rubyred200">#fb6f68</color>
-    <color name="rubyred300">#fb4e46</color>
-    <color name="rubyred400">#fb362c</color>
-    <color name="rubyred500">#f62217</color>
-    <color name="rubyred600">#e3180e</color>
-    <color name="rubyred700">#ca130a</color>
-    <color name="rubyred800">#a40d05</color>
-    <color name="rubyred900">#820a04</color>
-
-    <color name="rubyredA100">#f9535b</color>
-    <color name="rubyredA200">#f93039</color>
-    <color name="rubyredA400">#f70d1a</color>
-    <color name="rubyredA700">#c8030c</color>
 
     <!-- Lava Red, Lava Red and Fire Engine red -->
 
@@ -919,40 +772,8 @@
     <color name="lavaredA400">#f62817</color>
     <color name="lavaredA700">#e01d0e</color>
 
-    <!-- Love Red, Love Red and Lava red-->
 
-    <color name="lovered100">#f56562</color>
-    <color name="lovered200">#f9514d</color>
-    <color name="lovered300">#f43834</color>
-    <color name="lovered400">#f0231e</color>
-    <color name="lovered500">#e41b17</color>
-    <color name="lovered600">#d9130e</color>
-    <color name="lovered700">#bf110d</color>
-    <color name="lovered800">#a20905</color>
-    <color name="lovered900">#8d0804</color>
 
-    <color name="loveredA100">#f54138</color>
-    <color name="loveredA200">#ee3127</color>
-    <color name="loveredA400">#e42217</color>
-    <color name="loveredA700">#cf160d</color>
-
-    <!-- Indian Red, Indiana Red and Crimson -->
-
-    <color name="indianred50">#fbc4c4</color>
-    <color name="indianred100">#f9b7b7</color>
-    <color name="indianred200">#f4a3a3</color>
-    <color name="indianred300">#eb8c8c</color>
-    <color name="indianred400">#da6d6d</color>
-    <color name="indianred500">#cd5c5c</color>
-    <color name="indianred600">#ba4747</color>
-    <color name="indianred700">#b83b3b</color>
-    <color name="indianred800">#a23131</color>
-    <color name="indianred900">#892222</color>
-
-    <color name="indianredA100">#ee4263</color>
-    <color name="indianredA200">#e52549</color>
-    <color name="indianredA400">#dc143c</color>
-    <color name="indianredA700">#c30b2d</color>
 
     <!-- Crimson red, Crimson Red and Red -->
 
@@ -1045,41 +866,6 @@
     <color name="firebrickA700">#710000</color>
 
 
-    <!-- dark red, dark red and firebrick -->
-
-    <color name="darkred50">#e90202</color>
-    <color name="darkred100">#de0101</color>
-    <color name="darkred200">#ce0202</color>
-    <color name="darkred300">#ba0101</color>
-    <color name="darkred400">#a40101</color>
-    <color name="darkred500">#8b0000</color>
-    <color name="darkred600">#790202</color>
-    <color name="darkred700">#630404</color>
-    <color name="darkred800">#4d0303</color>
-    <color name="darkred900">#360101</color>
-
-    <color name="darkredA100">#d94141</color>
-    <color name="darkredA200">#ca3333</color>
-    <color name="darkredA400">#b22222</color>
-    <color name="darkredA700">#a21818</color>
-
-    <!-- Burgundy, Burgundy and Chilli Pepper-->
-
-    <color name="burgundy50">#ee153e</color>
-    <color name="burgundy100">#e50630</color>
-    <color name="burgundy200">#d9022a</color>
-    <color name="burgundy300">#c30428</color>
-    <color name="burgundy400">#a80120</color>
-    <color name="burgundy500">#8c001a</color>
-    <color name="burgundy600">#790219</color>
-    <color name="burgundy700">#5e0314</color>
-    <color name="burgundy800">#3b010c</color>
-    <color name="burgundy900">#200107</color>
-
-    <color name="burgundyA100">#e5413d</color>
-    <color name="burgundyA200">#d32d29</color>
-    <color name="burgundyA400">#c11b17</color>
-    <color name="burgundyA700">#9d0f0c</color>
 
 
     <!-- Maroon, Maroon and Red Wine -->
@@ -1208,23 +994,7 @@
     <color name="halloweenA400">#f87217</color>
     <color name="halloweenA700">#da5e0c</color>
 
-    <!-- Dark Orange, Dark Orange and orangered -->
 
-    <color name="darkorange50">#f5cd9f</color>
-    <color name="darkorange100">#fbca90</color>
-    <color name="darkorange200">#ffb763</color>
-    <color name="darkorange300">#ffa740</color>
-    <color name="darkorange400">#ff971d</color>
-    <color name="darkorange500">#ff8c00</color>
-    <color name="darkorange600">#eb8001</color>
-    <color name="darkorange700">#ca6e02</color>
-    <color name="darkorange800">#9f5701</color>
-    <color name="darkorange900">#733f02</color>
-
-    <color name="darkorangeA100">#f5672f</color>
-    <color name="darkorangeA200">#f95717</color>
-    <color name="darkorangeA400">#ff4500</color>
-    <color name="darkorangeA700">#c53902</color>
 
 
 
@@ -1322,23 +1092,6 @@
     <color name="sunyellowA400">#e8a317</color>
     <color name="sunyellowA700">#c8870a</color>
 
-    <!-- Bright Gold, Bright Gold and Beer-->
-
-    <color name="brightgold50">#f9efc9</color>
-    <color name="brightgold100">#fbebac</color>
-    <color name="brightgold200">#f5df88</color>
-    <color name="brightgold300">#f9dc67</color>
-    <color name="brightgold400">#fbd335</color>
-    <color name="brightgold500">#fdd017</color>
-    <color name="brightgold600">#deb40e</color>
-    <color name="brightgold700">#b3910b</color>
-    <color name="brightgold800">#896f06</color>
-    <color name="brightgold900">#5e4c04</color>
-
-    <color name="brightgoldA100">#f9c85e</color>
-    <color name="brightgoldA200">#f9bd3e</color>
-    <color name="brightgoldA400">#fbb117</color>
-    <color name="brightgoldA700">#da9809</color>
 
     <!-- Gold, Gold and Yellow -->
 
@@ -1358,23 +1111,7 @@
     <color name="goldA400">#ffff00</color>
     <color name="goldA700">#c6c801</color>
 
-    <!-- Mustard, Mustard and Bee Yellow -->
 
-    <color name="mustard50">#f9eec8</color>
-    <color name="mustard100">#f9eab6</color>
-    <color name="mustard200">#f9e5a0</color>
-    <color name="mustard300">#fbe189</color>
-    <color name="mustard400">#fbda68</color>
-    <color name="mustard500">#ffdb58</color>
-    <color name="mustard600">#eec842</color>
-    <color name="mustard700">#cfab2f</color>
-    <color name="mustard800">#b89723</color>
-    <color name="mustard900">#977a17</color>
-
-    <color name="mustardA100">#f5be3a</color>
-    <color name="mustardA200">#f0b62a</color>
-    <color name="mustardA400">#e9ab17</color>
-    <color name="mustardA700">#c58d08</color>
 
     <!-- Cantaloupe, Cantaloupe and Brown Sugar -->
 
@@ -1563,23 +1300,7 @@
     <color name="palegreenA400">#32cd32</color>
     <color name="palegreenA700">#1faa1f</color>
 
-    <!-- Light Green, Light Green and Pale Green -->
 
-    <color name="lightgreen50">#d0f7d0</color>
-    <color name="lightgreen100">#c7f4c7</color>
-    <color name="lightgreen200">#bdf4bd</color>
-    <color name="lightgreen300">#b2f4b2</color>
-    <color name="lightgreen400">#a1eea1</color>
-    <color name="lightgreen500">#90ee90</color>
-    <color name="lightgreen600">#7ada7a</color>
-    <color name="lightgreen700">#5dbf5d</color>
-    <color name="lightgreen800">#44aa44</color>
-    <color name="lightgreen900">#379637</color>
-
-    <color name="lightgreenA100">#b9f7b9</color>
-    <color name="lightgreenA200">#abf9ab</color>
-    <color name="lightgreenA400">#98fb98</color>
-    <color name="lightgreenA700">#6cd36c</color>
 
     <!-- Forest Green, Forest Green and Sea Green -->
 
@@ -1599,23 +1320,7 @@
     <color name="forestgreenA400">#2e8b57</color>
     <color name="forestgreenA700">#156338</color>
 
-    <!-- Dark Green, Dark Green and Green -->
 
-    <color name="darkgreen50">#4bd54b</color>
-    <color name="darkgreen100">#36c336</color>
-    <color name="darkgreen200">#1ba81b</color>
-    <color name="darkgreen300">#0e940e</color>
-    <color name="darkgreen400">#038203</color>
-    <color name="darkgreen500">#006400</color>
-    <color name="darkgreen600">#004d00</color>
-    <color name="darkgreen700">#003200</color>
-    <color name="darkgreen800">#001b00</color>
-    <color name="darkgreen900">#000c00</color>
-
-    <color name="darkgreenA100">#19b419</color>
-    <color name="darkgreenA200">#099f09</color>
-    <color name="darkgreenA400">#008000</color>
-    <color name="darkgreenA700">#004200</color>
 
     <!-- Light Sea Green, Light Sea Green and Dark Sea Green -->
 
@@ -1653,22 +1358,7 @@
     <color name="mediumaquamarineA400">#556b2f</color>
     <color name="mediumaquamarineA700">#3b4d1b</color>
 
-    <!-- medium Spring Green, Medium Spring Green and Light Green-->
 
-    <color name="mediumspringgreen100">#68f5be</color>
-    <color name="mediumspringgreen200">#49f4b2</color>
-    <color name="mediumspringgreen300">#2ff5a8</color>
-    <color name="mediumspringgreen400">#17f9a1</color>
-    <color name="mediumspringgreen500">#00fa9a</color>
-    <color name="mediumspringgreen600">#01e28b</color>
-    <color name="mediumspringgreen700">#00b66f</color>
-    <color name="mediumspringgreen800">#028b56</color>
-    <color name="mediumspringgreen900">#005836</color>
-
-    <color name="mediumspringgreenA100">#c5fbc5</color>
-    <color name="mediumspringgreenA200">#b1f9b1</color>
-    <color name="mediumspringgreenA400">#90ee90</color>
-    <color name="mediumspringgreenA700">#68cf68</color>
 
     <!-- Spring Green , Spring Green and Medium Spring Green -->
 
@@ -1904,18 +1594,6 @@
     <color name="sandybrown800">#bd7432</color>
     <color name="sandybrown900">#a25d20</color>
 
-    <!-- Brass -->
-
-    <color name="brass50">#ebe097</color>
-    <color name="brass100">#e5d987</color>
-    <color name="brass200">#d9cc72</color>
-    <color name="brass300">#cfc165</color>
-    <color name="brass400">#bfb14f</color>
-    <color name="brass500">#b5a642</color>
-    <color name="brass600">#9f9135</color>
-    <color name="brass700">#827624</color>
-    <color name="brass800">#685e1a</color>
-    <color name="brass900">#564d11</color>
 
 
     <!--Peru -->
@@ -1959,18 +1637,6 @@
     <color name="mahogany900">#3b1401</color>
 
 
-    <!-- SaddleBrown -->
-
-    <color name="saddlebrown50">#e09762</color>
-    <color name="saddlebrown100">#d3864d</color>
-    <color name="saddlebrown200">#bf7239</color>
-    <color name="saddlebrown300">#af6229</color>
-    <color name="saddlebrown400">#97501b</color>
-    <color name="saddlebrown500">#8b4513</color>
-    <color name="saddlebrown600">#773b0f</color>
-    <color name="saddlebrown700">#5e2d09</color>
-    <color name="saddlebrown800">#3d1c04</color>
-    <color name="saddlebrown900">#251101</color>
 
 
 
@@ -2014,18 +1680,6 @@
     <color name="bloodred900">#2b0e03</color>
 
 
-    <!-- Oak Brown -->
-
-    <color name="oakbrown50">#e5cb7d</color>
-    <color name="oakbrown100">#d5b964</color>
-    <color name="oakbrown200">#ceb157</color>
-    <color name="oakbrown300">#b3963e</color>
-    <color name="oakbrown400">#997d29</color>
-    <color name="oakbrown500">#806517</color>
-    <color name="oakbrown600">#6c5510</color>
-    <color name="oakbrown700">#564309</color>
-    <color name="oakbrown800">#3b2e05</color>
-    <color name="oakbrown900">#251c02</color>
 
     <!-- Wood -->
 
@@ -2112,31 +1766,8 @@
 
     <!-- Grays -->
 
-    <!-- metallic silver -->
 
-    <color name="metallicsilver50">#bcc6cc</color>
-    <color name="metallicsilver100">#a0b0ba</color>
-    <color name="metallicsilver200">#80949f</color>
-    <color name="metallicsilver300">#667b87</color>
-    <color name="metallicsilver400">#4d6471</color>
-    <color name="metallicsilver500">#344b58</color>
-    <color name="metallicsilver600">#253d4b</color>
-    <color name="metallicsilver700">#1d3746</color>
-    <color name="metallicsilver800">#122936</color>
-    <color name="metallicsilver900">#0b202d</color>
 
-    <!-- platinum -->
-
-    <color name="platinum50">#e5e4e2</color>
-    <color name="platinum100">#d5d2cb</color>
-    <color name="platinum200">#b4b0a7</color>
-    <color name="platinum300">#979185</color>
-    <color name="platinum400">#7c7362</color>
-    <color name="platinum500">#685c46</color>
-    <color name="platinum600">#584b31</color>
-    <color name="platinum700">#483b23</color>
-    <color name="platinum800">#3d3119</color>
-    <color name="platinum900">#322610</color>
 
 
 
@@ -2244,70 +1875,8 @@
     <color name="darkslategray800">#112b2b</color>
     <color name="darkslategray900">#0a2020</color>
 
-    <!-- Gray Wolf -->
 
-    <color name="graywolf50">#c5bebf</color>
-    <color name="graywolf100">#bab1b3</color>
-    <color name="graywolf200">#a29a9c</color>
-    <color name="graywolf300">#877e7f</color>
-    <color name="graywolf400">#686263</color>
-    <color name="graywolf500">#504a4b</color>
-    <color name="graywolf600">#413b3c</color>
-    <color name="graywolf700">#322c2d</color>
-    <color name="graywolf800">#221c1d</color>
-    <color name="graywolf900">#171213</color>
 
-    <!-- Vampire Gray -->
-
-    <color name="vampiregray50">#bab6b7</color>
-    <color name="vampiregray100">#b4aeaf</color>
-    <color name="vampiregray200">#a49c9e</color>
-    <color name="vampiregray300">#92888a</color>
-    <color name="vampiregray400">#736b6c</color>
-    <color name="vampiregray500">#565051</color>
-    <color name="vampiregray600">#484142</color>
-    <color name="vampiregray700">#383132</color>
-    <color name="vampiregray800">#2b2425</color>
-    <color name="vampiregray900">#171213</color>
-
-    <!-- Gray Dolphin -->
-
-    <color name="graydolphin50">#a8a5a5</color>
-    <color name="graydolphin100">#9f9999</color>
-    <color name="graydolphin200">#8d8989</color>
-    <color name="graydolphin300">#7e7c7c</color>
-    <color name="graydolphin400">#6e6c6c</color>
-    <color name="graydolphin500">#5c5858</color>
-    <color name="graydolphin600">#4b4646</color>
-    <color name="graydolphin700">#3d3636</color>
-    <color name="graydolphin800">#322929</color>
-    <color name="graydolphin900">#271f1f</color>
-
-    <!-- Carbon Gray -->
-
-    <color name="carbongray50">#afacac</color>
-    <color name="carbongray100">#a4a2a2</color>
-    <color name="carbongray200">#979494</color>
-    <color name="carbongray300">#878484</color>
-    <color name="carbongray400">#736f6f</color>
-    <color name="carbongray500">#625d5d</color>
-    <color name="carbongray600">#5c5656</color>
-    <color name="carbongray700">#484242</color>
-    <color name="carbongray800">#383131</color>
-    <color name="carbongray900">#252020</color>
-
-    <!-- Ash Gray -->
-
-    <color name="ashgray50">#b4b0ae</color>
-    <color name="ashgray100">#afabaa</color>
-    <color name="ashgray200">#9f9b99</color>
-    <color name="ashgray300">#8d8988</color>
-    <color name="ashgray400">#797675</color>
-    <color name="ashgray500">#666362</color>
-    <color name="ashgray600">#565250</color>
-    <color name="ashgray700">#413d3b</color>
-    <color name="ashgray800">#383331</color>
-    <color name="ashgray900">#221e1d</color>
 
     <!-- Cloudy Gray -->
 
@@ -2365,31 +1934,6 @@
 
     <!-- Other blacks -->
 
-    <!-- Taupe -->
-
-    <color name="taupe50">#978c83</color>
-    <color name="taupe100">#897d74</color>
-    <color name="taupe200">#776a60</color>
-    <color name="taupe300">#6e5f54</color>
-    <color name="taupe400">#584b40</color>
-    <color name="taupe500">#483c32</color>
-    <color name="taupe600">#3b2f26</color>
-    <color name="taupe700">#2d221a</color>
-    <color name="taupe800">#1c150f</color>
-    <color name="taupe900">#17100b</color>
-
-    <!-- night -->
-
-    <color name="night50">#685e61</color>
-    <color name="night100">#5e5457</color>
-    <color name="night200">#4b4044</color>
-    <color name="night300">#30282a</color>
-    <color name="night400">#1b1517</color>
-    <color name="night500">#0c090a</color>
-    <color name="night600">#070505</color>
-    <color name="night700">#070505</color>
-    <color name="night800">#0c0707</color>
-    <color name="night900">#0c0606</color>
 
     <!-- gunmetal -->
 
@@ -2404,70 +1948,6 @@
     <color name="gunmetal800">#0c1215</color>
     <color name="gunmetal900">#0a1215</color>
 
-    <!-- Midnight -->
-
-    <color name="midnight50">#775d57</color>
-    <color name="midnight100">#6e534c</color>
-    <color name="midnight200">#634741</color>
-    <color name="midnight300">#513731</color>
-    <color name="midnight400">#3b2622</color>
-    <color name="midnight500">#2b1b17</color>
-    <color name="midnight600">#221410</color>
-    <color name="midnight700">#150b09</color>
-    <color name="midnight800">#150a07</color>
-    <color name="midnight900">#0c0503</color>
-
-    <!-- charcoal -->
-
-    <color name="charcoal50">#8e8487</color>
-    <color name="charcoal100">#82777b</color>
-    <color name="charcoal200">#6c5f63</color>
-    <color name="charcoal300">#56494d</color>
-    <color name="charcoal400">#413539</color>
-    <color name="charcoal500">#34282c</color>
-    <color name="charcoal600">#251b1e</color>
-    <color name="charcoal700">#1c1216</color>
-    <color name="charcoal800">#170e11</color>
-    <color name="charcoal900">#12090c</color>
-
-    <!-- oil -->
-
-    <color name="oil50">#948888</color>
-    <color name="oil100">#877b7b</color>
-    <color name="oil200">#776d6d</color>
-    <color name="oil300">#635757</color>
-    <color name="oil400">#514646</color>
-    <color name="oil500">#3b3131</color>
-    <color name="oil600">#2d2424</color>
-    <color name="oil700">#201818</color>
-    <color name="oil800">#171010</color>
-    <color name="oil900">#120c0c</color>
-
-    <!-- Black cat -->
-
-    <color name="blackcat50">#877e7f</color>
-    <color name="blackcat100">#736b6c</color>
-    <color name="blackcat200">#635c5d</color>
-    <color name="blackcat300">#585152</color>
-    <color name="blackcat400">#484041</color>
-    <color name="blackcat500">#413839</color>
-    <color name="blackcat600">#362c2d</color>
-    <color name="blackcat700">#251c1d</color>
-    <color name="blackcat800">#1b1314</color>
-    <color name="blackcat900">#100a0b</color>
-
-    <!-- Iridium -->
-
-    <color name="iridium50">#94918a</color>
-    <color name="iridium100">#84817b</color>
-    <color name="iridium200">#716e69</color>
-    <color name="iridium300">#5e5c58</color>
-    <color name="iridium400">#4d4c49</color>
-    <color name="iridium500">#3d3c3a</color>
-    <color name="iridium600">#32312e</color>
-    <color name="iridium700">#252421</color>
-    <color name="iridium800">#171613</color>
-    <color name="iridium900">#100f0d</color>
 
 
 </resources>
