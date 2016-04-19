@@ -220,7 +220,7 @@ The Colors
 
 ![dimgray](/art/dimgray.png)
 
-![lightslategray](/art/lightslategray.png)
+![lightslategray](/art/lightslategrey.png)
 
 ![darkslategray](/art/darkslategray.png)
 
@@ -230,7 +230,7 @@ The Colors
 
 ![jeygray](/art/jetgray.png)
 
-![bluegrey](/art/bluegrey.png)
+![bluegrey](/art/bluegray.png)
 
 ![gunmetal](/art/gunmetal.png)
 
