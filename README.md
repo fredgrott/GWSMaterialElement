@@ -55,7 +55,7 @@ The Colors
 
 ![darkslateblue](/art/darkslateblue.png)
 
-![mediumslateblue](/art/mediumslateblue.png)
+
 
 
 
@@ -210,7 +210,7 @@ The Colors
 
 ![sepia](/art/sepia.png)
 
-![lightgray](/art/lightgray.png)
+![lightgray](/art/lightgrey.png)
 
 ![silver](/art/silver.png)
 

@@ -431,23 +431,7 @@
     <color name="darkslateblueA400">#6a5acd</color>
     <color name="darkslateblueA700">#4f3fad</color>
 
-    <!-- Medium Slate Blue, Medium Slate Blue and Dark Slate Blue -->
 
-    <color name="mediumslateblue50">#e0dbfd</color>
-    <color name="mediumslateblue100">#d7d0ff</color>
-    <color name="mediumslateblue200">#beb4fd</color>
-    <color name="mediumslateblue300">#ada0f9</color>
-    <color name="mediumslateblue400">#9180f4</color>
-    <color name="mediumslateblue500">#7b68ee</color>
-    <color name="mediumslateblue600">#6d5ae0</color>
-    <color name="mediumslateblue700">#5d4acc</color>
-    <color name="mediumslateblue800">#4c3aba</color>
-    <color name="mediumslateblue900">#3b2ba2</color>
-
-    <color name="mediumslateblueA100">#7165ba</color>
-    <color name="mediumslateblueA200">#594da2</color>
-    <color name="mediumslateblueA400">#483d8b</color>
-    <color name="mediumslateblueA700">#42368b</color>
 
 
 
