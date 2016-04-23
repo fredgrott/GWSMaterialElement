@@ -1961,6 +1961,266 @@ public class GWSColor extends Color {
   }
 
   //Oranges
+  public static int coral50Color(){
+    return Color.rgb(251,204,188);
+  }
+  public static int coral100Color(){
+    return Color.rgb(255,200,181);
+  }
+  public static int coral200Color(){
+    return Color.rgb(255,182,158);
+  }
+  public static int coral300Color(){
+    return Color.rgb(249,161,131);
+  }
+  public static int coral400Color(){
+    return Color.rgb(249,138,100);
+  }
+  public static int coral500Color(){
+    return Color.rgb(255,127,80);
+  }
+  public static int coral600Color(){
+    return Color.rgb(235,111,67);
+  }
+  public static int coral700Color(){
+    return Color.rgb(211,96,55);
+  }
+  public static int coral800Color(){
+    return Color.rgb(189,82,44);
+  }
+  public static int coral900Color(){
+    return Color.rgb(162,64,29);
+  }
+  public static int coralA100Color(){
+    return Color.rgb(255,154,137);
+  }
+  public static int coralA200Color(){
+    return Color.rgb(251,129,109);
+  }
+  public static int coralA400Color(){
+    return Color.rgb(2555,99,71);
+  }
+  public static int coralA700Color(){
+    return Color.rgb(211,62,37);
+  }
+
+  public static int tomato50Color(){
+    return Color.rgb(251,208,197);
+  }
+  public static int tomato100Color(){
+    return Color.rgb(251,201,187);
+  }
+  public static int tomato200Color(){
+    return Color.rgb(255,186,168);
+  }
+  public static int tomato300Color(){
+    return Color.rgb(255,159,133);
+  }
+  public static int tomato400Color(){
+    return Color.rgb(255,129,95);
+  }
+  public static int tomato500Color(){
+    return Color.rgb(255,110,71);
+  }
+  public static int tomato600Color(){
+    return Color.rgb(235,99,63);
+  }
+  public static int tomato700Color(){
+    return Color.rgb(213,87,53);
+  }
+  public static int tomato800Color(){
+    return Color.rgb(189,72,40);
+  }
+  public static int tomato900Color(){
+    return Color.rgb(159,54,26);
+  }
+  public static int tomatoA100Color(){
+    return Color.rgb(251,174,148);
+  }
+  public static int tomatoA200Color(){
+    return Color.rgb(251,150,115);
+  }
+  public static int tomatoA400Color(){
+    return Color.rgb(255,127,80);
+  }
+  public static int tomatoA700Color(){
+    return Color.rgb(206,86,44);
+  }
+
+  public static int papayaorange50Color(){
+    return Color.rgb(255,209,178);
+  }
+  public static int papayaorange100Color(){
+    return Color.rgb(253,190,148);
+  }
+  public static int papayaorange200Color(){
+    return Color.rgb(255,173,118);
+  }
+  public static int papayaorange300Color(){
+    return Color.rgb(253,148,78);
+  }
+  public static int papayaorange400Color(){
+    return Color.rgb(242,122,43);
+  }
+  public static int papayaorange500Color(){
+    return Color.rgb(229,103,23);
+  }
+  public static int papayaorange600Color(){
+    return Color.rgb(206,92,16);
+  }
+  public static int papayaorange700Color(){
+    return Color.rgb(162,71,10);
+  }
+  public static int papayaorange800Color(){
+    return Color.rgb(113,49,8);
+  }
+  public static int papayaorange900Color(){
+    return Color.rgb(81,33,1);
+  }
+  public static int papayaorangeA100Color(){
+    return Color.rgb(238,173,115);
+  }
+  public static int papayaorangeA200Color(){
+    return Color.rgb(220,150,88);
+  }
+  public static int papayaorangeA400Color(){
+    return Color.rgb(200,129,65);
+  }
+  public static int papayaorangeA700Color(){
+    return Color.rgb(157,92,35);
+  }
+
+  public static int tigerorange50Color(){
+    return Color.rgb(249,212,180);
+  }
+  public static int tigerorange100Color(){
+    return Color.rgb(249,197,151);
+  }
+  public static int tigerorange200Color(){
+    return Color.rgb(242,178,121);
+  }
+  public static int tigerorange300Color(){
+    return Color.rgb(227,157,94);
+  }
+  public static int tigerorange400Color(){
+    return Color.rgb(211,137,72);
+  }
+  public static int tigerorange500Color(){
+    return Color.rgb(200,129,65);
+  }
+  public static int tigerorange600Color(){
+    return Color.rgb(179,114,55);
+  }
+  public static int tigerorange700Color(){
+    return Color.rgb(151,92,40);
+  }
+  public static int tigerorange800Color(){
+    return Color.rgb(133,79,32);
+  }
+  public static int tigerorange900Color(){
+    return Color.rgb(106,60,19);
+  }
+  public static int tigerorangeA100Color(){
+    return Color.rgb(247,139,68);
+  }
+  public static int tigerorangeA200Color(){
+    return Color.rgb(242,121,40);
+  }
+  public static int tigerorangeA400Color(){
+    return Color.rgb(229,103,23);
+  }
+  public static int tigerorangeA700Color(){
+    return Color.rgb(195,84,10);
+  }
+
+  public static int orangered50Color(){
+    return Color.rgb(251,166,132);
+  }
+  public static int orangered100Color(){
+    return Color.rgb(255,159,121);
+  }
+  public static int orangered200Color(){
+    return Color.rgb(251,134,88);
+  }
+  public static int orangered300Color(){
+    return Color.rgb(251,107,57);
+  }
+  public static int orangered400Color(){
+    return Color.rgb(251,90,27);
+  }
+  public static int orangered500Color(){
+    return Color.rgb(255,69,0);
+  }
+  public static int orangered600Color(){
+    return Color.rgb(233,67,2);
+  }
+  public static int orangered700Color(){
+    return Color.rgb(200,58,2);
+  }
+  public static int orangered800Color(){
+    return Color.rgb(157,45,1);
+  }
+  public static int orangered900Color(){
+    return Color.rgb(110,33,2);
+  }
+  public static int orangeredA100Color(){
+    return Color.rgb(251,162,148);
+  }
+  public static int orangeredA200Color(){
+    return Color.rgb(255,140,121);
+  }
+  public static int orangeredA400Color(){
+    return Color.rgb(255,99,71);
+  }
+  public static int orangeredA700Color(){
+    return Color.rgb(211,68,45);
+  }
+
+
+  public static int halloween50Color(){
+    return Color.rgb(249,169,125);
+  }
+  public static int halloween100Color(){
+    return Color.rgb(244,136,77);
+  }
+  public static int halloween200Color(){
+    return Color.rgb(240,129,69);
+  }
+  public static int halloween300Color(){
+    return Color.rgb(240,126,63);
+  }
+  public static int halloween400Color(){
+    return Color.rgb(235,118,53);
+  }
+  public static int halloween500Color(){
+    return Color.rgb(230,108,44);
+  }
+  public static int halloween600Color(){
+    return Color.rgb(207,95,34);
+  }
+  public static int halloween700Color(){
+    return Color.rgb(180,79,23);
+  }
+  public static int halloween800Color(){
+    return Color.rgb(157,65,15);
+  }
+  public static int halloween900Color(){
+    return Color.rgb(141,57,11);
+  }
+  public static int halloweenA100Color(){
+    return Color.rgb(251,153,88);
+  }
+  public static int halloweenA200Color(){
+    return Color.rgb(251,136,59);
+  }
+  public static int halloweenA400Color(){
+    return Color.rgb(248,114,23);
+  }
+  public static int halloweenA700Color(){
+    return Color.rgb(218,94,12);
+  }
+
+  //Yellows
 
 
 

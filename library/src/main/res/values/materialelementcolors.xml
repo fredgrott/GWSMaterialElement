@@ -946,6 +946,7 @@
 
     <!-- OrangeRed, OrangeRed and Tomato -->
 
+    <color name="orangered50">#fba684</color>
     <color name="orangered100">#ff9f79</color>
     <color name="orangered200">#fb8658</color>
     <color name="orangered300">#fb6b32</color>
@@ -965,13 +966,14 @@
 
     <color name="halloween50">#f9a97d</color>
     <color name="halloween100">#f4884d</color>
-    <color name="halloween200">#f4884d</color>
+    <color name="halloween200">#f08145</color>
     <color name="halloween300">#f07e3f</color>
     <color name="halloween400">#eb7635</color>
     <color name="halloween500">#e66c2c</color>
     <color name="halloween600">#cf5f22</color>
     <color name="halloween700">#b44f17</color>
     <color name="halloween800">#9d410f</color>
+    <color name="halloween900">#8d390b</color>
 
     <color name="halloweenA100">#fb9958</color>
     <color name="halloweenA200">#fb883b</color>
