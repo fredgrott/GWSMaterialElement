@@ -1441,6 +1441,49 @@ public class GWSColor extends Color {
     return Color.rgb(131,33,182);
   }
 
+  public static int yourpurpleness50Color(){
+    return Color.rgb(184,140,251);
+  }
+  public static int yourpurpleness100Color(){
+    return Color.rgb(170,121,244);
+  }
+  public static int yourpurpleness200Color(){
+    return Color.rgb(155,98,240);
+  }
+  public static int yourpurpleness300Color(){
+    return Color.rgb(134,75,224);
+  }
+  public static int yourpurpleness400Color(){
+    return Color.rgb(118,55,211);
+  }
+  public static int yourpurpleness500Color(){
+    return Color.rgb(108,45,199);
+  }
+  public static int yourpurpleness600Color(){
+    return Color.rgb(86,30,170);
+  }
+  public static int yourpurpleness700Color(){
+    return Color.rgb(72,21,148);
+  }
+  public static int yourpurpleness800Color(){
+    return Color.rgb(61,15,130);
+  }
+  public static int yourpurpleness900Color(){
+    return Color.rgb(51,10,113);
+  }
+  public static int yourpurplenessA100Color(){
+    return Color.rgb(211,138,235);
+  }
+  public static int yourpurplenessA200Color(){
+    return Color.rgb(198,117,224);
+  }
+  public static int yourpurplenessA400Color(){
+    return Color.rgb(167,74,199);
+  }
+  public static int yourpurplenessA700Color(){
+    return Color.rgb(139,43,170);
+  }
+
   //Reds
   public static int lightsalmon50Color(){
     return Color.rgb(247,228,221);
@@ -4213,24 +4256,129 @@ public class GWSColor extends Color {
   }
 
 
+  public static int sandstone50Color(){
+    return Color.rgb(186,181,174);
+  }
+  public static int sandstone100Color(){
+    return Color.rgb(180,172,164);
+  }
+  public static int sandstone200Color(){
+    return Color.rgb(164,157,149);
+  }
+  public static int sandstone300Color(){
+    return Color.rgb(148,139,128);
+  }
+  public static int sandstone400Color(){
+    return Color.rgb(137,127,113);
+  }
+  public static int sandstone500Color(){
+    return Color.rgb(120,109,95);
+  }
+  public static int sandstone600Color(){
+    return Color.rgb(108,97,82);
+  }
+  public static int sandstone700Color(){
+    return Color.rgb(92,81,66);
+  }
+  public static int sandstone800Color(){
+    return Color.rgb(75,65,52);
+  }
+  public static int sandstone900Color(){
+    return Color.rgb(54,47,37);
+  }
 
+  public static int jetgray50Color(){
+    return Color.rgb(182,188,195);
+  }
+  public static int jetgray100Color(){
+    return Color.rgb(166,175,186);
+  }
+  public static int jetgray200Color(){
+    return Color.rgb(150,158,170);
+  }
+  public static int jetgray300Color(){
+    return Color.rgb(131,141,153);
+  }
+  public static int jetgray400Color(){
+    return Color.rgb(115,126,142);
+  }
+  public static int jetgray500Color(){
+    return Color.rgb(97,109,126);
+  }
+  public static int jetgray600Color(){
+    return Color.rgb(80,93,110);
+  }
+  public static int jetgray700Color(){
+    return Color.rgb(62,73,88);
+  }
+  public static int jetgray800Color(){
+    return Color.rgb(43,53,66);
+  }
+  public static int jetgray900Color(){
+    return Color.rgb(32,39,50);
+  }
 
+  public static int bluegray50Color(){
+    return Color.rgb(225,231,238);
+  }
+  public static int bluegray100Color(){
+    return Color.rgb(216,227,238);
+  }
+  public static int bluegray200Color(){
+    return Color.rgb(201,215,229);
+  }
+  public static int bluegray300Color(){
+    return Color.rgb(190,206,222);
+  }
+  public static int bluegray400Color(){
+    return Color.rgb(167,189,231);
+  }
+  public static int bluegray500Color(){
+    return Color.rgb(152,175,199);
+  }
+  public static int bluegray600Color(){
+    return Color.rgb(138,162,186);
+  }
+  public static int bluegray700Color(){
+    return Color.rgb(114,139,164);
+  }
+  public static int bluegray800Color(){
+    return Color.rgb(89,113,137);
+  }
+  public static int bluegray900Color(){
+    return Color.rgb(71,93,135);
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  public static int gunmetal50Color(){
+    return Color.rgb(126,133,137);
+  }
+  public static int gunmetal100Color(){
+    return Color.rgb(113,124,130);
+  }
+  public static int gunmetal200Color(){
+    return Color.rgb(93,105,130);
+  }
+  public static int gunmetal300Color(){
+    return Color.rgb(72,83,88);
+  }
+  public static int gunmetal400Color(){
+    return Color.rgb(57,67,72);
+  }
+  public static int gunmetal500Color(){
+    return Color.rgb(44,53,57);
+  }
+  public static int gunmetal600Color(){
+    return Color.rgb(30,39,43);
+  }
+  public static int gunmetal700Color(){
+    return Color.rgb(18,25,28);
+  }
+  public static int gunmetal800Color(){
+    return Color.rgb(12,18,23);
+  }
+  public static int gunmetal900Color(){
+    return Color.rgb(10,18,21);
+  }
 
 
 

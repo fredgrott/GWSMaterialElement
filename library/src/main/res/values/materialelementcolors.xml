@@ -641,6 +641,26 @@
     <color name="darkmagentaA400">#9932cc</color>
     <color name="darkmagentaA700">#8321b6</color>
 
+    <!-- Your Purpleness, Purple Amethyst and Purple Flower
+         RIP Prince Rogers Nelson 2016-->
+
+    <color name="yourpurpleness50">#b88cfb</color>
+    <color name="yourpurpleness100">#aa79f4</color>
+    <color name="yourpurpleness200">#9b62f0</color>
+    <color name="yourpurpleness300">#864be0</color>
+    <color name="yourpurpleness400">#7637d3</color>
+    <color name="yourpurpleness500">#6c2dc7</color>
+    <color name="yourpurpleness600">#561eaa</color>
+    <color name="yourpurpleness700">#481594</color>
+    <color name="yourpurpleness800">#3d0f82</color>
+    <color name="yourpurpleness900">#330a71</color>
+
+    <color name="yourpurplenessA100">#d38aeb</color>
+    <color name="yourpurplenessA200">#c675e0</color>
+    <color name="yourpurplenessA400">#a74ac7</color>
+    <color name="yourpurplenessA700">#8b2baa</color>
+
+
     <!-- Reds -->
 
     <!-- Light Salmon, Light Salmon and Dark Salmon -->
@@ -1744,7 +1764,7 @@
     <color name="sepia50">#e3b29c</color>
     <color name="sepia100">#dea68d</color>
     <color name="sepia200">#ca9076</color>
-    <color name="speia300">#b4755a</color>
+    <color name="sepia300">#b4755a</color>
     <color name="sepia400">#975b40</color>
     <color name="sepia500">#7f462c</color>
     <color name="sepia600">#6c361e</color>
