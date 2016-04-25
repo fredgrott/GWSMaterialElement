@@ -1366,7 +1366,7 @@
 
     <!-- Medium Sea Green, Medium Sea green and Spring Green -->
 
-    <color name="mediumsaegreen50">#a2f0c5</color>
+    <color name="mediumseagreen50">#a2f0c5</color>
     <color name="mediumseagreen100">#98ebbd</color>
     <color name="mediumseagreen200">#7de0a9</color>
     <color name="mediumseagreen300">#67d397</color>
@@ -1424,6 +1424,11 @@
 
     <!-- Dark Cyan, Dark cyan and light sea green -->
 
+    <color name="darkcyan50">#32dcde</color>
+    <color name="darkcyan100">#2bd3d5</color>
+    <color name="darkcyan200">#1fc8ca</color>
+    <color name="darkcyan300">#13b8ba</color>
+    <color name="darkcyan400">#0ba2a4</color>
     <color name="darkcyan500">#008b8b</color>
     <color name="darkcyan600">#007677</color>
     <color name="darkcyan700">#005758</color>
