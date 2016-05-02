@@ -1849,7 +1849,7 @@
 
     <!-- Light slate grey -->
 
-    <color name='lightslategrey50'>#c7d0d9</color>
+    <color name="lightslategrey50">#c7d0d9</color>
     <color name="lightslategrey100">#bcc5ce</color>
     <color name="lightslategrey200">#a9b4bf</color>
     <color name="lightslategrey300">#98a6b4</color>
