@@ -1960,5 +1960,112 @@
     <color name="gunmetal900">#0a1215</color>
 
 
+    <!-- turquoisegray, turquoise and 81 percent gray -->
+
+
+    <color name="turquoisegray50">#cddedc</color>
+    <color name="turquoisegray100">#c6d7d5</color>
+    <color name="turquoisegray200">#bccecc</color>
+    <color name="turquoisegray300">#a6bdbb</color>
+    <color name="turquoisegray400">#8ca6a3</color>
+    <color name="turquoisegray500">#73928f</color>
+    <color name="turquoisegray600">#62807d</color>
+    <color name="turquoisegray700">#4e6a67</color>
+    <color name="turquoisegray800">#3e5653</color>
+    <color name="turquoisegray900">#2f4644</color>
+
+    <!-- cadetbluegray, cadetblue 81 percent gray-->
+
+    <color name="cadetbluegray50">#c2d7d9</color>
+    <color name="cadetbluegray100">#bdcfd1</color>
+    <color name="cadetbluegray200">#aebfc1</color>
+    <color name="cadetbluegray300">#9eaeaf</color>
+    <color name="cadetbluegray400">#8e9c9d</color>
+    <color name="cadetbluegray500">#798586</color>
+    <color name="cadetbluegray700">#697677</color>
+    <color name="cadetbluegray800">#5a6667</color>
+    <color name="cadetbluegray900">#455051</color>
+
+    <!-- steelbluegray, steelblue 81 percent gray -->
+
+    <color name="steelbluegray50">#cbd8e3</color>
+    <color name="steelbluegray100">#c8d5e0</color>
+    <color name="steelbluegray200">#bac5ce</color>
+    <color name="steelbluegray300">#aab4bd</color>
+    <color name="steelbluegray400">#8d97a0</color>
+    <color name="steelbluegray500">#758089</color>
+    <color name="steelbluegray600">#606d77</color>
+    <color name="steelbluegray700">#47525c</color>
+    <color name="steelbluegray800">#34404a</color>
+    <color name="steelbluegray900">#232d36</color>
+
+    <!-- lightsteelbluegray, lightsteelblue 81 percent gray -->
+
+    <color name="lightsteelbluegray50">#d6dbe3</color>
+    <color name="lightsteelbluegray100">#d1d6de</color>
+    <color name="lightsteelbluegray200">#c0c5cc</color>
+    <color name="lightsteelbluegray300">#aeb2b8</color>
+    <color name="lightsteelbluegray400">#989ca2</color>
+    <color name="lightsteelbluegray500">#898c91</color>
+    <color name="lightsteelbluegray600">#7a7e84</color>
+    <color name="lightsteelbluegray700">#5b606a</color>
+    <color name="lightsteelbluegray800">#444b55</color>
+    <color name="lightsteelbluegray900">#363e4a</color>
+
+    <!-- royalbluegray, royalblue 81 percent gray -->
+
+    <color name="royalbluegray50">#e1e4ee</color>
+    <color name="royalbluegray100">#d4d8e7</color>
+    <color name="royalbluegray200">#c4c9d7</color>
+    <color name="royalbluegray300">#aeb3c3</color>
+    <color name="royalbluegray400">#9298ad</color>
+    <color name="royalbluegray500">#747b92</color>
+    <color name="royalbluegray600">#535a70</color>
+    <color name="royalbluegray700">#343a4f</color>
+    <color name="royalbluegray800">#262c3f</color>
+    <color name="royalbluegray900">#151a29</color>
+
+
+
+
+    <!--darkbluegray, darkblue 81 percent gray -->
+
+    <color name="darkbluegray50">#d3d3e7</color>
+    <color name="darkbluegray100">#cdcde0</color>
+    <color name="darkbluegray200">#b8b8ce</color>
+    <color name="darkbluegray300">#a0a0ba</color>
+    <color name="darkbluegray400">#8686a0</color>
+    <color name="darkbluegray500">#676782</color>
+    <color name="darkbluegray600">#4f4f6a</color>
+    <color name="darkbluegray700">#3b3b56</color>
+    <color name="darkbluegray800">#292946</color>
+    <color name="darkbluegray900">#1c1c36</color>
+
+    <!-- orchidgray, orchid 81 percent gray -->
+
+    <color name="orchidgray50">#ebd9eb</color>
+    <color name="orchidgray100">#dac5da</color>
+    <color name="orchidgray200">#cebbce</color>
+    <color name="orchidgray300">#bdaabd</color>
+    <color name="orchidgray400">#a291a2</color>
+    <color name="orchidgray500">#907c90</color>
+    <color name="orchidgray600">#826c82</color>
+    <color name="orchidgray700">#614f61</color>
+    <color name="orchidgray800">#4b394b</color>
+    <color name="orchidgray900">#382938</color>
+
+    <!-- violetgray, violet 81 percent gray -->
+
+    <color name="violetgray50">#e9dbe9</color>
+    <color name="violetgray100">#e0cee0</color>
+    <color name="violetgray200">#cfbbcf</color>
+    <color name="violetgray300">#b8a7b8</color>
+    <color name="violetgray400">#a492a4</color>
+    <color name="violetgray500">#948094</color>
+    <color name="violetgray600">#796379</color>
+    <color name="violetgray700">#634c63</color>
+    <color name="violetgray800">#483548</color>
+    <color name="violetgray900">#322232</color>
+
 
 </resources>
